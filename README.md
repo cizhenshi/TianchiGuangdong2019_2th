@@ -2,6 +2,8 @@
 
 本代码为天池广东工业智能大赛布匹瑕疵检测第二名方案, code base为mmdetection.
 
+项目由@cizhenshi  @Okersira 共同合作完成.
+
 ### Code Structure
 
 本次提交代码目录如下：
