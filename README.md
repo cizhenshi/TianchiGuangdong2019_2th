@@ -1,6 +1,6 @@
 ### Introduction
 
-本代码为天池决赛代码
+本代码为天池广东工业智能大赛布匹瑕疵检测第二名方案, code base为mmdetection.
 
 ### Code Structure
 
