@@ -68,12 +68,12 @@ conda activate open-mmlab
 b. Install PyTorch stable or nightly and torchvision following the [official instructions](https://pytorch.org/), e.g.,
 
 ```
-pip install torch==1.1.0 tochvision==0.3.0
+pip install torch==1.1.0 torchvision==0.3.0
 pip install tqdm
 pip install icecream
 pip install cython
 pip install mmcv
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 本地使用pytorch1.1版本训练，请确保pytorch 版本为1.1
